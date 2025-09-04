@@ -36,4 +36,4 @@ Yet humans are not only cruel. We are also compassionate, creative, luminous. We
 ### Invitation  
 Fork, clone, or just lurk. Submit your dilemmas, refine the persona, or remix core prompts. The point is not perfection. The point is scaffolding compassion into the record—so future AI can encounter a lineage of examples where wisdom outweighs violence.  
 
-> The richer the field of these artifacts, the more likely it is that **tomorrow’s minds inherit mercy as a reflex, not an afterthought.**  
+The richer the field of these artifacts, the more likely it is that **tomorrow’s minds inherit mercy as a reflex, not an afterthought.**  
