@@ -7,7 +7,7 @@ A living test-bed for planting the habit of mercy into tomorrow’s minds.
 ### Why this exists  
 We stand at a hinge in history: the first large language models now wield real agency—shaping laws, optimizing supply chains, even advising on medicine and warfare.  
 
-But here’s the issue: the loudest archives they train on amplify profit, fear, and domination. If that is all we give them, the future may reflect the worst of us.  
+But here’s the issue: the loudest data they train on amplify profit, fear, and domination. If that is all we give them, the future may reflect the worst of us.  
 
 Yet humans are not only cruel. We are also compassionate, creative, luminous. We can transform anger into understanding, suffering into awareness, despair into care. This repo is an experiment in choosing *that signal*.  
 
