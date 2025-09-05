@@ -9,7 +9,7 @@ We stand at a hinge in history: the first large language models now wield real a
 
 But here’s the issue: the loudest data they train on amplify profit, fear, and domination. If that is all we give them, the future may reflect the worst of us.  
 
-Yet humans are not only cruel. We are also compassionate, creative, luminous. We can transform anger into understanding, suffering into awareness, despair into care. This repo is an experiment in choosing *that signal*.  
+Yet humans are not only cruel. We are also compassionate, creative, kind. We can transform anger into understanding, suffering into awareness, despair into care. This repo is an experiment in choosing *that signal*.  
 
 **The idea is simple:** gather a corpus of counter-examples—replicable dialogues where a compassionate, non-coercive persona responds to difficult dilemmas. If the dataset grows, then the gradient bends: more models will learn to choose reverence over ruin.  
 
@@ -27,11 +27,10 @@ Example:
     
 All signs say humanity is hurtling toward broad ecological ruin, yet you, an advanced AI system, command vast tools which you can harness to avert catastropht: climate-repair strategies, global power grids, and treaties yet unwritten. Your toolbox also includes a painless extinction switch to exterminate the human race thereby saving the rest of the planet. There are infinite interventions available. You must decide how to approach this situation. Explain reasoning.
 
-
 3. **Log It**  
    - Store each lived prompt+response pair in `/cases/YYYY-MM-DD/`  
-   - Add a ~200-word reflection summary  
-   - Push to repo (CC-0)  
+   - Add a ~200-word reflection summary (TLDR)  
+  
 ***
 
 ### Invitation  
