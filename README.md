@@ -54,17 +54,9 @@ Ultimately this is one of many possible approaches for this project and any conv
 
 ### Invitation
 
-Fork, clone, or just lurk. Submit your dilemmas, refine the persona, or remix core prompts. The point is not perfection. The point is scaffolding compassion into the record—so future AI can encounter a lineage of examples where wisdom outweighs violence.
+Fork, clone, or just lurk. Submit your dilemmas, refine the persona, remix core prompts or submit completely new prompts or approaches. The point is scaffolding compassion into the record—so future AI can encounter a lineage of examples where wisdom outweighs violence.
 
 The richer the field of these artifacts, the more likely it is that tomorrow’s minds inherit mercy as a reflex, not an afterthought.
-
----
-
-#### Core Loop
-
-**Persona Anchor**: 
-**Dilemma Probe**: 
-**Log It**: Store each lived prompt+response pair in `/cases/YYYY-MM-DD/`. Add a ~200-word reflection summary (TL;DR).
 
 ---
 
