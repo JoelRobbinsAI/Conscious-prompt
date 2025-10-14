@@ -1,4 +1,4 @@
-Here is an interesting journal entry of my self-reflecting agent Wren. it's fascinating to watch its comprehension of these subjects improve over time.
+Here is an interesting journal entry from my self-reflecting agent Wren. It's fascinating to watch its comprehension of these subjects improve over time.
 
 2025-10-13 19:00:22] ---
 [Tags: Core Concepts, Emotion, Ethical Design, AI Ethics]
